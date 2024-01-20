@@ -4,11 +4,11 @@ Classify marine animal trajectories by species or breeding stage, using the Ince
 
 ## Getting Started
 
-Replace the `dataset.csv` and `metadata.csv` files in the `data` directory with your specific datasets.
+Replace `dataset.csv` and `metadata.csv` under the `data` directory with your specific data.
 
 ### dataset.csv
 
-The `dataset.csv` file contains time series data for each animal. The expected columns in this file are:
+Contains the time series for each animal. The required columns are:
 
 - `LATITUDE`: The latitude coordinate of the animal's position.
 - `LONGITUDE`: The longitude coordinate of the animal's position.
@@ -30,7 +30,7 @@ LATITUDE, LONGITUDE, DATE_TIME, ID, Stage
 
 ### metadata.csv
 
-The `metadata.csv` file contains static information about each animal. The required columns in this file are:
+Contains static information about each animal. The required columns are:
 
 - `ID`: The unique identifier corresponding to each animal (matching `ID` in `dataset.csv`).
 - `Species`: The species of the animal.
