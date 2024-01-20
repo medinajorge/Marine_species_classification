@@ -1,6 +1,6 @@
 # Marine Species Classification
 
-This repository is dedicated to the classification of marine animal trajectories by species or breeding stage, using the InceptionTime neural network.
+Classify marine animal trajectories by species or breeding stage, using the InceptionTime neural network.
 
 ## Getting Started
 
