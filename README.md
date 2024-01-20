@@ -4,7 +4,7 @@ Classify marine animal trajectories by species or breeding stage, using the Ince
 
 ## Getting Started
 
-Ensure you have replaced the default `dataset.csv` and `metadata.csv` files in the `data` directory with your specific datasets.
+Replace the `dataset.csv` and `metadata.csv` files in the `data` directory with your specific datasets.
 
 ### dataset.csv
 
